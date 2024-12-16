@@ -7,6 +7,7 @@ https://ojs.aaai.org/index.php/AAAI/article/view/30139
 The model training code and attack method are released by the paper "Policy Smoothing for Provably Robust Reinforcement Learning"
 
 python cartpole_multiframe_train.py  --sigma 0.1 (std. dev 0.2)
+
 python freeway_train.py  --sigma 0.00  Trains an undefended model
 
 
