@@ -15,7 +15,7 @@ python freeway_train.py  --sigma 0.00  Trains an undefended model
 # Attack the policy smoothing model and undefended model
 
 
-Attack amoothed model
+Attack smoothed model
 
 python3 mountainattackl1.py --sigma 0.4  --attack_eps 2 --norm_coeff 0.001 --checkpoint  mountain_car_sigma_0.4/best_model
 
