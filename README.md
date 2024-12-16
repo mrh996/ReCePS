@@ -3,6 +3,8 @@ Our paper Reward Certification for Policy Smoothed Reinforcement Learning is acc
 
 https://ojs.aaai.org/index.php/AAAI/article/view/30139
 
+The appendix is attached
+
 # Train the policy smoothing model
 The model training code and attack method are released by the paper "Policy Smoothing for Provably Robust Reinforcement Learning"
 
