@@ -33,6 +33,9 @@ python3 cartpole_multiframe_test.py  --sigma 0.1 --checkpoint cartpole_multifram
 
 python3 freeway_testl0.py  --sigma 0.0 --checkpoint freeway_ef_0.2/best_model
 
+# Plot experiment results in paper
+
+test_plot.ipynb
 
 # Experiment Result
 
